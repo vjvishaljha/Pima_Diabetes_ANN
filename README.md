@@ -1,4 +1,4 @@
-# Pima_-Diabetes_ANN
+# Pima_Diabetes_ANN
 
 Diabetes means blood sugar is above desired level on a sustained basis. The prime objec-
 tive of this research work is to provide a better classification of diabetes. There are already several existing 
