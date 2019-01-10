@@ -15,6 +15,7 @@ As a summary, ANNs are very flexible yet powerful deep learning models. They are
 for more content on ANN-https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6
 
 The Dataset we are using can be downloaded for free from The kaggle.com 
+
 link-https://www.kaggle.com/uciml/pima-indians-diabetes-database.
 
 # Description About The Data
